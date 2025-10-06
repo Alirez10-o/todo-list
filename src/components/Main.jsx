@@ -4,7 +4,7 @@ export default function Main() {
 
     return(
         <>
-            <div className="h-screen flex items-center justify-center bg-red-500">
+            <div className="h-screen flex items-center justify-center bg-[#778da9]">
                 <Page />
             </div>  
         </>
